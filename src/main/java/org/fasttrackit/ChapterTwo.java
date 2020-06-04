@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 import java.time.LocalDateTime;
 import java.util.Scanner;
 
-public class ChapetrTwo {
+public class ChapterTwo {
 
     public static void main(String[] args) {
 

@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class ArrayValidator {
 
+    //BST -preorder traversals
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(Paths.get("src/main/java/org/fasttrackit/exercise 6 - input.txt"));
 
@@ -42,6 +43,23 @@ public class ArrayValidator {
     }
 
     public static String validateArray(int[] array){
+        for(int k = 0; k < array.length; k++){
+
+            for (int x = k+1; x < array.length; x++){
+
+                if(array[k] < array[x]){
+
+                    for(int y = x +1; y <array.length; y++){
+
+                        if(array[x + 1] < array[k]){
+                            return "INVALID";
+                        }
+
+                    }
+                }
+            }
+
+        }
         return "VALID";
     }
 }

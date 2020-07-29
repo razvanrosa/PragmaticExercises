@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*You’ll often need to see if one value is within a certain range
         and alter the flow of a program as a result.

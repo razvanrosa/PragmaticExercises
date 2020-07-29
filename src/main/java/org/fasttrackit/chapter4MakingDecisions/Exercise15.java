@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Create a simple program that validates user login credentials.
         The program must prompt the user for a username and

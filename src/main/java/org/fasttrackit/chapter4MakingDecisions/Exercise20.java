@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Create a tax calculator that handles multiple states and
         multiple counties within each state. The program prompts

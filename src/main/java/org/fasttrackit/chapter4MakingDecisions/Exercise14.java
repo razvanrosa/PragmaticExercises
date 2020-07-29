@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
        /* Write a simple program to compute the tax on an order
                 amount. The program should prompt for the order amount

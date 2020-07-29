@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Write a program that asks the user for their age and compare
         it to the legal driving age of sixteen. If the user is sixteen or

@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Create a program that prompts for your weight, gender,
         number of drinks, the amount of alcohol by volume of the

@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Create a program that converts temperatures from Fahren-
         heit to Celsius or from Celsius to Fahrenheit. Prompt for the

@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 /*
 Write a program that converts a number from 1 to 12 to the
         corresponding month. Prompt for a number and display the

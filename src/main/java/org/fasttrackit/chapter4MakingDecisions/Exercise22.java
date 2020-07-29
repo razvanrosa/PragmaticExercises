@@ -1,4 +1,4 @@
-package org.fasttrackit.Chapter4MakingDecisions;
+package org.fasttrackit.chapter4MakingDecisions;
 
 /*Write a program that asks for three numbers. Check first to
         see that all numbers are different. If they’re not different,
